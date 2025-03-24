@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Matei Birlea
 
-<!--
-**MateiBirlea/MateiBirlea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS student passionate about software development and clean code.  
+💻 I work with **Java**, **Spring Boot**, **Node.js**, **React**, **MySQL**, and more.  
+🧠 Interested in **OOP**, **SOLID**, and scalable system design.  
+🚀 Always learning and building cool stuff!
 
-Here are some ideas to get you started:
+## 🌐 Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 [LinkedIn](https://www.linkedin.com/in/matei-birlea-b94a4a2a5/)
+- 📁 [GitHub Projects](https://github.com/MateiBirlea?tab=repositories)
+- 🌍 [Live Project – AV Drones](https://av-drones-react-frontend.vercel.app)
+
+---
